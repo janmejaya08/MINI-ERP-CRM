@@ -1,9 +1,6 @@
 # MINI-ERP-CRM
 
 ================================================================================
-DATABASE SETUP GUIDE (PostgreSQL)
-Project: Mini ERP + CRM Operations Portal[cite: 1]
-================================================================================
 
 PREREQUISITES:
 - PostgreSQL 14+ installed on your machine[cite: 1].
